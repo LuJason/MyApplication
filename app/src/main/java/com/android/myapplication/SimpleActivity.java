@@ -24,9 +24,6 @@ public class SimpleActivity extends AppCompatActivity {
     private static final String TAG = "SimpleActivity";
     private TextView tv;
 
-
-
-
     private BitmapMemCache mMemCache;
 
     private Vector<Picinfo> v;
